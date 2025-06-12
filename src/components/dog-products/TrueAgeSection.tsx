@@ -1,5 +1,4 @@
 
-import smiling from "../../assets/smiling-lady.png";
 import dna from "../../assets/dog-dna-stat.png"
 import dog from "../../assets/Dog.png"
 
@@ -18,7 +17,7 @@ export default function TrueAgeSection() {
         {/* Left column */}
         <div className="space-y-6">
           <p className="text-lg text-[#393D43]/70 leading-relaxed">
-            myDogDNAge unlocks healthier aging for your dog. It reveals their biological age—or TrueAge—which can be different than the number of years they've been cuddled up on your couch. Their cells, as revealed through various biomarkers, could be older or younger than their actual age, and this impacts how well they sit, stay, and enjoy life as your BFF (best furry friend).
+            myDogDNAge unlocks healthier aging for your dog. It reveals their biological age—or myDNAge—which can be different than the number of years they've been cuddled up on your couch. Their cells, as revealed through various biomarkers, could be older or younger than their actual age, and this impacts how well they sit, stay, and enjoy life as your BFF (best furry friend).
           </p>
           <p className="text-lg text-[#393D43]/70 leading-relaxed">
             myDogDNAge doesn’t just measure a dog’s lifespan, it serves as a blueprint for age-appropriate, individualized care for your dog.

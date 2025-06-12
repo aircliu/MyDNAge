@@ -211,11 +211,11 @@ export default function About() {
 
         <header className="text-left">
           <h2 className="mt-6 sm:mt-8 lg:mt-10 text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold leading-snug text-[#393D43]">
-            What is TrueAge?
+            What is myDNAge?
           </h2>
 
           <p className="pt-3 sm:pt-4 text-base sm:text-lg md:text-xl lg:text-2xl leading-snug text-[#7F7F7F]">
-            While a person's chronological age can tell the world how many years a person has walked upon the Earth, it's an individual's TrueAge, or biological age,
+            While a person's chronological age can tell the world how many years a person has walked upon the Earth, it's an individual's myDNAge, or biological age,
             that measures their body's unique pace of aging. It's driven by measurable molecular signals that can tell you how well your cells are functioning.
           </p>
 
@@ -232,11 +232,11 @@ export default function About() {
 
         <header className="text-left">
           <h2 className="mt-6 sm:mt-8 lg:mt-10 text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold leading-snug text-[#393D43]">
-            Why does TrueAge matter?
+            Why does myDNAge matter?
           </h2>
 
           <p className="pt-3 sm:pt-4 text-base sm:text-lg md:text-xl lg:text-2xl leading-snug text-[#7F7F7F]">
-            Your aging process is not just governed by your genetics. TrueAge is calculated by looking at epigenetic modifications, specifically methylation.
+            Your aging process is not just governed by your genetics. myDNAge is calculated by looking at epigenetic modifications, specifically methylation.
           </p>
         </header>
 
@@ -246,7 +246,7 @@ export default function About() {
             <p className="mb-3 sm:mb-4">
               Epigenetic activity is driven by your environment, including vital lifestyle factors like what you eat, how much you exercise, and the quality
               of your sleep. These all have the power to affect how quickly your cells, and the organs and tissues they make up, age over time. By using MyDNAge to determine 
-              your TrueAge, you can learn your pace of aging and its effects on your overall health. More importantly, you can use repeatedd MyDNAge testing to monitor
+              your myDNAge, you can learn your pace of aging and its effects on your overall health. More importantly, you can use repeatedd MyDNAge testing to monitor
               your biological aging and measure whether different lifestyle interventions are working to slow it.
             </p>
           </section>

@@ -21,7 +21,7 @@ export interface Step {
     },
     {
       number: "03",
-      title: "Reveal your TrueAge",
+      title: "Reveal your myDNAge",
       description: "Your test results and personalized report will be ready in 4-6 weeks and delivered via email",
       icon: "report"
     }

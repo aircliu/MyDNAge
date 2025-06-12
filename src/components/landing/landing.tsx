@@ -112,7 +112,7 @@ export default function Landing() {
           >
             <HiOutlineCheckCircle className="h-6 w-6 sm:h-7 sm:w-7 text-[#2A5987] flex-shrink-0" />
             <span>
-              Scientifically proven, at-home DNA tests to reveal your TrueAge
+              Scientifically proven, at-home DNA tests to reveal your myDNAge
             </span>
           </button>
 
@@ -152,7 +152,7 @@ export default function Landing() {
                                      w-full sm:w-auto"
             >
               <HiOutlineQuestionMarkCircle className="h-6 w-6 sm:h-7 sm:w-7 text-[#AFD5E7] flex-shrink-0" />
-              <span className="text-[#AFD5E7]">Find Your TrueAge Now</span>
+              <span className="text-[#AFD5E7]">Find Your myDNAge Now</span>
             </button>
           </Link>
         </section>
@@ -225,27 +225,27 @@ export default function Landing() {
         {/* FAQ section */}
         <section className="max-w-2xl mx-auto py-10 md:py-16 px-6 sm:px-8 md:px-12">
           <div className="text-semibold text-[#2A5987]">
-            <Collapsible title="What is my TrueAge?">
+            <Collapsible title="What is my myDNAge?">
               <p>
                 While a person's chronological age can tell the world how many
                 years a person has walked upon the Earth, it's an individual's
-                TrueAge, or biological age, that measures their body's unique
+                myDNAge, or biological age, that measures their body's unique
                 pace of aging. It's driven by measurable molecular signals that
                 can tell you how well your cells are functioning.
               </p>
             </Collapsible>
 
-            <Collapsible title="Why is my TrueAge different from my chronological age?">
+            <Collapsible title="Why is my myDNAge different from my chronological age?">
               <p>
                 While a person's chronological age can tell the world how many
                 years a person has walked upon the Earth, it's an individual's
-                TrueAge, or biological age, that measures their body's unique
+                myDNAge, or biological age, that measures their body's unique
                 pace of aging. It's driven by measurable molecular signals that
                 can tell you how well your cells are functioning.
               </p>
             </Collapsible>
 
-            <Collapsible title="How does DNA methylation affect my TrueAge?">
+            <Collapsible title="How does DNA methylation affect my myDNAge?">
               <p>
                 Methylation is one type of epigenetic program that lets your
                 genes know when to increase, decrease, or stop expression by
@@ -259,7 +259,7 @@ export default function Landing() {
 
             <Collapsible title="How does MyDNAge measure my pace of aging with DNA methylation?">
               <p>
-                TrueAge is calculated by looking at epigenetic modifications,
+                myDNAge is calculated by looking at epigenetic modifications,
                 specifically methylation. Epigenetic activity is driven by your
                 environment, including vital lifestyle factors like what you
                 eat, how much you exercise, and the quality of your sleep. These

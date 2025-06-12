@@ -6,7 +6,7 @@ export default function ProductHero() {
         MyDNAge
       </h1>
       <p className="text-base sm:text-lg md:text-xl text-[#393D43]/70 max-w-2xl">
-        The at-home test that measures your biological TrueAge with precise DNA
+        The at-home test that measures your biological myDNAge with precise DNA
         analysis.
       </p>
     </div>

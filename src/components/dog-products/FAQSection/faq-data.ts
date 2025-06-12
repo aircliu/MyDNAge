@@ -6,15 +6,15 @@ export interface FAQ {
   
   export const faqData: FAQ[] = [
     {
-      question: "What is my TrueAge?",
-      answer: "TrueAge is your biological age—the actual age of your cells and body systems. Unlike chronological age (your birthday age), TrueAge reflects how well your body is aging based on epigenetic markers. It can be higher or lower than your chronological age depending on your lifestyle, genetics, and environmental factors."
+      question: "What is my myDNAge?",
+      answer: "myDNAge is your biological age—the actual age of your cells and body systems. Unlike chronological age (your birthday age), myDNAge reflects how well your body is aging based on epigenetic markers. It can be higher or lower than your chronological age depending on your lifestyle, genetics, and environmental factors."
     },
     {
-      question: "Why is my TrueAge different from my chronological age?",
-      answer: "Your chronological age is simply the number of years since you were born. TrueAge measures how your cells are actually aging by analyzing DNA methylation patterns. Factors like diet, exercise, stress, sleep, and environmental exposures can cause your biological age to differ from your chronological age."
+      question: "Why is my myDNAge different from my chronological age?",
+      answer: "Your chronological age is simply the number of years since you were born. myDNAge measures how your cells are actually aging by analyzing DNA methylation patterns. Factors like diet, exercise, stress, sleep, and environmental exposures can cause your biological age to differ from your chronological age."
     },
     {
-      question: "How does DNA methylation affect my TrueAge?",
+      question: "How does DNA methylation affect my myDNAge?",
       answer: "Methylation is one type of epigenetic program that lets your genes know when to increase, decrease, or stop expression by adding one or more methyl groups to your DNA. If epigenetics is DNA software, methyl groups are the high-level programming code telling the genome which genes to express. This methylation programming code often changes based on our lifestyle choices and health status."
     },
     {

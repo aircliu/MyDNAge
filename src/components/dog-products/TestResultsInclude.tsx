@@ -3,7 +3,7 @@ export default function TestResultsInclude() {
   const results = [
     {
       id: 1,
-      text: "Your dog's biological TrueAge score",
+      text: "Your dog's biological myDNAge score",
       checked: true,
     },
     {
@@ -13,7 +13,7 @@ export default function TestResultsInclude() {
     },
     {
       id: 3,
-      text: "Environmental stress indicators that detects how lifestyle, toxins, and pollution exposure may impact your dog's TrueAge",
+      text: "Environmental stress indicators that detects how lifestyle, toxins, and pollution exposure may impact your dog's myDNAge",
       checked: true,
     },
     {

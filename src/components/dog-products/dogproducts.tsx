@@ -9,7 +9,6 @@ import TestResultsInclude from "./TestResultsInclude.tsx";
 import TrueAgeSection from "./TrueAgeSection.tsx";
 import EpigeneticScienceSection from "./EpigeneticScienceSection.tsx";
 import UnlockTrueAgeSteps from "./UnlockTrueAgeSteps";
-import FAQSection from "./FAQSection";
 import gradient2 from "../../assets/vector-2.png"
 import line from "../../assets/Vector Line.png"
 

@@ -7,7 +7,7 @@ export default function TrueAgeSection() {
   return (
     <div>
       <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#393D43] mb-8 leading-tight">
-        Unlocking Your TrueAge to Live
+        Unlocking Your myDNAge to Live
         <br />
         Longer, Better
       </h2>
@@ -18,7 +18,7 @@ export default function TrueAgeSection() {
         <div className="space-y-6">
           <p className="text-lg text-[#393D43]/70 leading-relaxed">
             Chronological age is the number of years you have been alive,
-            whereas biological age—your TrueAge—is the age of the cells in your
+            whereas biological age—your myDNAge the age of the cells in your
             body.
           </p>
           <p className="text-lg text-[#393D43]/70 leading-relaxed">
